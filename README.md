@@ -5,7 +5,9 @@
  
 3. Type in `gitcl`, then press enter.
  
-![Command Line](images/gitcl.png)
+<p align="center">
+ <img src=images/gitcl.png>
+ </p>
 
 4. It may prompt you to sign into GitHub. Complete the sign in process, then return to VSCode.
  
