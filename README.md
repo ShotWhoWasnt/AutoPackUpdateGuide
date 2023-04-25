@@ -1,5 +1,5 @@
 # Auto Pack Update Guide
-**1.**  First, if you don't already have it installed, download and install VSCode from [visualstudio.com](https://code.visualstudio.com/), and Git from [git!](https://gitforwindows.org/)
+**1.**  First, if you don't already have it installed, download and install [VSCode](https://code.visualstudio.com/), and [Git!](https://gitforwindows.org/)
  
 **2.** Once you've finished installing VSCode, open it, then press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the command line.
  
