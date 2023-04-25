@@ -49,30 +49,37 @@
  **10.** You're almost set! Continue on to learn how to update your assets when needed. (Important)
  
  ---
- # Updating your assets pack
- **1.** Whenever a new update to the asset pack is available, you will see a small icon in the bottom left of VSCode to let you know!
-  
-   <p align="center">
- <img src=images/updates.png>
- </p>
-  
-  **2.** Whenever there is an available update, simply click the Synchronize Changes button! You'll want to do this at least once immediately.
+ # Updating your assets pack (First Time)
+
+  **1.** First, click the Synchronize Changes button in the bottom left! You'll want to do this at least once immediately.
   
    <p align="center">
  <img src=images/updates2.png>
  </p>
  
- **3.** The first time you do this, it will bring up a prompt. Click, "OK, Don't Show Again."
+ **2.** The first time you do this, it will bring up a prompt. Click, "OK, Don't Show Again."
   
    <p align="center">
  <img src=images/pushpullfix.png>
  </p>
  
- **4.** Afterwards, it will ask you if you'd like to periodically run git fetch, say Yes. 
+ **3.** Afterwards, it will ask you if you'd like to periodically run git fetch, say Yes. 
   
    <p align="center">
  <img src=images/gitfetch.png>
  </p>
  
+ ## Further Updates
+  
+   **1.** Whenever a new update to the asset pack is available, you will see a small icon in the bottom left of VSCode to let you know! Simply click the Synchronize Changes button to pull them!
+  
+   <p align="center">
+ <img src=images/updates.png>
+ </p>
+  
+  **2.** Then in game, click <kbd>F3</kbd> + <kbd>T</kbd> to reload your resource packs.
+  
+  
+  **3.** That's it! You're all done. Whenever an update is needed or shown, simply click, then reload!
 
   
