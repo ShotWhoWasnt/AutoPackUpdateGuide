@@ -40,4 +40,19 @@
  <img src=images/extensions2.png>
  </p>
   
- <b>9.</b>
+ <b>9.</b> You're pretty much set! **Congrats!** Continue on to learn how to update your assets.
+ ---
+ # Updating your assets pack
+ **1.** Whenever a new update to the asset pack is available, you will see a small icon in the bottom left of VSCode to let you know!
+  
+    <p align="center">
+ <img src=images/updates.png>
+ </p>
+  
+  **2.** Whenever there is an available update, simply click the Synchronize Changes button!
+  
+   <p align="center">
+ <img src=images/updates2.png>
+ </p>
+
+  
