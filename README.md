@@ -11,4 +11,6 @@
 
 4. It may prompt you to sign into GitHub. Complete the sign in process, then return to VSCode.
  
-![Sign In Prompt](images/signin.png)
+<p align="center">
+ <img src=images/signin.png>
+ </p>
