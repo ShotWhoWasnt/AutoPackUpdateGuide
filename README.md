@@ -1,5 +1,5 @@
 # Auto Pack Update Guide
-<b>1.</b>  First, if you don't already have it installed, download VSCode at [Visual Studio](https://code.visualstudio.com/)!
+<b>1.</b>  First, if you don't already have it installed, download VSCode from [Visual Studio.com](https://code.visualstudio.com/)!
  
 <b>2.</b> Once you've finished installing VSCode, open it, then press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the command line.
  
