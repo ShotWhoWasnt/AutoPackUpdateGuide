@@ -65,7 +65,7 @@
  **3.** The first time you do this, it will bring up a prompt. Click, "OK, Don't Show Again."
   
    <p align="center">
- <img src=images/pushpull.png>
+ <img src=images/pushpullfix.png>
  </p>
  
  **4.** Afterwards, it will ask you if you'd like to periodically run git fetch, say Yes. 
