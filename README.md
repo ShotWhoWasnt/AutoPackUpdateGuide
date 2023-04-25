@@ -28,7 +28,9 @@
  <img src=images/destination.png>
  </p>
  
-<b>7.</b> Give it a second to clone the repository, then head over to the extensions tab in VSCode.
+<b>7.</b> Give it a second to clone the repository, and when it asks, open the folder. Say "Yes, I trust the authors." when prompted.
+
+
   
   <p align="center">
  <img src=images/extensions.png>
