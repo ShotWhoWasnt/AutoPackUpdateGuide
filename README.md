@@ -14,3 +14,9 @@
 <p align="center">
  <img src=images/signin.png>
  </p>
+ 
+ 5. Afterwards, copy the Repository URL from the assets page `(https://github.com/InQuognito/super_smash_bros_recrafted_assets.git)`
+
+<p align="center">
+ <img src=images/copy.png>
+ </p>
