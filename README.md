@@ -3,4 +3,6 @@
  
 2. Once you've finished installing VSCode, open it, then press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the command line.
  
+3. Type in `gitcl`, then press enter.
+ 
 ![Command Line](images/gitcl.png)
