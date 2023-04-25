@@ -30,13 +30,17 @@
  
 **7.** Give it a second to clone the repository, and when it asks, open the folder. Say "Yes, I trust the authors." when prompted.
 
-**8.** 
+<p align="center">
+ <img src=images/trust.png>
+ </p>
+
+**8.**  Head over to the extensions tab in VSCode;
   
   <p align="center">
  <img src=images/extensions.png>
  </p>
   
-**9.** Install the following <u>2</u> extensions
+**9.** then install the following <u>2</u> extensions
  
  <p align="center">
  <img src=images/extensions2.png>
