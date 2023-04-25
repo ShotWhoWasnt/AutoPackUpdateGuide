@@ -20,3 +20,10 @@
 <p align="center">
  <img src=images/copy.png>
  </p>
+ 
+ 6. Paste the URL into the command line and press enter. It will ask you to select a destination folder. Choose your `.minecraft/resourcepacks` folder.
+  
+ <p align="center">
+ <img src=images/paste.png>
+ <img src=images/destination.png>
+ </p>
