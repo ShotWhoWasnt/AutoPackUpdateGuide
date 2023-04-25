@@ -33,3 +33,11 @@
   <p align="center">
  <img src=images/extensions.png>
  </p>
+  
+<b>8.</b> Install the following <u>2</u> extensions
+ 
+ <p align="center">
+ <img src=images/extensions2.png>
+ </p>
+  
+ <b>9.</b>
