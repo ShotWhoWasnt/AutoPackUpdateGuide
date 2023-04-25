@@ -27,3 +27,9 @@
  <img src=images/paste.png>
  <img src=images/destination.png>
  </p>
+ 
+ 7. Give it a second to clone the repository, then head over to the extensions tab in VSCode.
+  
+  <p align="center">
+ <img src=images/extensions.png>
+ </p>
