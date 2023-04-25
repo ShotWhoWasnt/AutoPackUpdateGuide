@@ -52,7 +52,7 @@
  # Updating your assets pack
  **1.** Whenever a new update to the asset pack is available, you will see a small icon in the bottom left of VSCode to let you know!
   
-    <p align="center">
+   <p align="center">
  <img src=images/updates.png>
  </p>
   
