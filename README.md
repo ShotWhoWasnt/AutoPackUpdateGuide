@@ -41,6 +41,7 @@
  </p>
   
  <b>9.</b> You're pretty much set! **Congrats!** Continue on to learn how to update your assets.
+ 
  ---
  # Updating your assets pack
  **1.** Whenever a new update to the asset pack is available, you will see a small icon in the bottom left of VSCode to let you know!
