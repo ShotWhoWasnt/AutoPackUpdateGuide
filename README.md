@@ -1,7 +1,7 @@
 # Auto Pack Update Guide
 **1.**  First, if you don't already have them installed, download and install [VSCode](https://code.visualstudio.com/), and [Git!](https://gitforwindows.org/)
 
-**2.**  Afterwards, head over to the extensions tab in VSCode;
+**2.**  Afterwards, open up VSCode and head over to the extensions tab;
   
   <p align="center">
  <img src=images/extensions.png>
